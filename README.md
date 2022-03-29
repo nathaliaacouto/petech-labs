@@ -1,1 +1,1 @@
-# petech-labs
+# Petech
